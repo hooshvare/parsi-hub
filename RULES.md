@@ -10,7 +10,7 @@ Here you can find a few instructions to include a dataset of your choosing in th
 6. Make a new directory with the exact same name as your branch and your dataset (e.g. my_dataset).
 7. Based on the type of the data in your dataset (i.e. text, video, image, audio), go to the template directory in the root directory and copy the appropriate the template into your dataset directory.
 8. Fill out the template, providing all the necessary information of all sections based on the characteristics of your dataset.
-9. Add and commit. To prevent git conflicts due to the works of other people while you are working on your own branch, you should use the following commands before pushing and sending a pull request:
+9. Add and commit. To prevent git conflicts due to the works of other people while you are working on your own branch, you should use the following commands before pushing and sending a pull request
 
 ```git
 git fetch upstream
