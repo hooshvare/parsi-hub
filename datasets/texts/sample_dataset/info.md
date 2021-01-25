@@ -35,7 +35,7 @@ A single record from the dataset to show the structure of the dataset
 The kind of problems this dataset solves or the gaps it fills.
 
 # Dataset Link
-A link to the dataset. This can be a github repo or a link to your personal website.
+You can access the dataset from here [Sample Dataset](https://github.com/hooshvare/)!
 
 # Paper Link (if applicable)
 A link to the paper that has ultimately used this dataset.
