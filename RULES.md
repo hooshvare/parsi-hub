@@ -21,7 +21,7 @@ git checkout -b my_dataset
 9. Follow the below commands to add and commit your changes.
 
 ```git
-git add dataset/texts/sample_dataset
+git add dataset/texts/my_dataset
 git commit -m "message"
 git fetch upstream
 git rebase upstream/master
