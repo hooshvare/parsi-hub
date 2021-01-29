@@ -7,6 +7,14 @@ Welcome to the best Persian dataset hub!! Here you can find the information for 
 
 We look forward to hear from all of you and try our best to make this repository as comprehensive and as accurate as possible. This of course can not be done without your kind contributions. Just please note that the purpose of this repository is to gather information of various Persian-based datasets and has no claim, whatsoever, on these datasets, nor we are responsible for the accuracy of these datasets. However, we will try to verify the information for each dataset to the extent possible.
 
+## Team
+
+This repo is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/hooshvare/parsi-hub/graphs/contributors).
+
+| [![Mohammad Gharachorloo](https://avatars3.githubusercontent.com/u/8525540?v=3&s=70)](https://github.com/baarsaam) 	| [![Mohammad Gharachorloo](https://avatars3.githubusercontent.com/u/2601833?v=3&s=70)](https://github.com/m3hrdadfi) 	|
+|----------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------	|
+| [Mohammad Gharachorloo](https://github.com/baarsaam)                                                               	| [Mehrdad Farahani](https://github.com/m3hrdadfi)                                                               	|
+
 ## License
 
 [Apache License 2.0](LICENSE)
