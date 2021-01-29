@@ -2,7 +2,7 @@
 
 ## Introduction
 
-<div align="center">
+<div>
   <p>
     Welcome to the best Persian dataset hub!! Here you can find the information for many different Persian flavored datasets. You can use these datasets for your  Machine Learning or Deep Learning applications. Here, we will put our best effort into verifying the information for each of these datasets to ensure the information provided are valid and reliable. Anyone can contribute to this repository by sharing ideas in our <a href="https://github.com/hooshvare/parsi-hub/discussions">discussion</a> forum or by creating <a href="https://github.com/hooshvare/parsi-hub/pulls">pull requests</a> for us to include more datasets in this repository. For a complete guide on how to make pull requests and how to take part in our discussion please read our <a href="https://github.com/hooshvare/parsi-hub/blob/master/README.md">RULES.md</a> file and also our <a href="https://github.com/hooshvare/parsi-hub/discussions/1">pinned discussion</a>.
   </p>
