@@ -10,7 +10,7 @@ tasks:
 ---
 
 # Name
-A short name for the dataset
+X Dataset
 
 # Description
 A short description of the dataset
